@@ -25,7 +25,7 @@ Robotten følger G-koden ved brug af G00, G01 og G98. Højden på blyanten juste
 - RobotCode.nb – Mathematica-kildekode til billedbehandling og G-kode-generering  
 - RobotCode.pdf – PDF-version af koden  
 - Datasheets/ – Mappe med databladene for de anvendte komponenter:
-  - LM7805.pdf
+  - LM7805.pdf (Spændingsregulator)
   - OP505.pdf / OP593.pdf (IR-sender/modtager)
   - 1N4002.pdf, 1N4148.pdf (Dioder)
   - BC639.pdf, LM2904.pdf (Transistor og op-amp)
